@@ -46,13 +46,13 @@ accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 ## Output:
-![decision tree classifier model](1.png)
-![decision tree classifier model](2.png)
-![decision tree classifier model](3.png)
-![decision tree classifier model](class.png)
-![decision tree classifier model](accuracy.png)
-![decision tree classifier model](array.png)
-![altext](satisfaction.png)
+![output](1.png)
+![output](2.png)
+![output](3.png)
+![output](class.png)
+![output](accuracy.png)
+![output](array.png)
+![output](satisfaction.png)
 
 
 ## Result:
